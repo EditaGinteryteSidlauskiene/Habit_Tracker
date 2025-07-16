@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edita\\OneDrive\\Desktop\\Project Object Oriented and Functional Programming with Python\\Habit tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23F5BA42-57C7-4D29-BF3B-F92B5AFED82F}|Habit tracker.pyproj|C:\\Users\\edita\\OneDrive\\Desktop\\Project Object Oriented and Functional Programming with Python\\Habit tracker\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{23F5BA42-57C7-4D29-BF3B-F92B5AFED82F}|Habit tracker.pyproj|solutionrelative:main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F5BA42-57C7-4D29-BF3B-F92B5AFED82F}|Habit tracker.pyproj|C:\\Users\\edita\\OneDrive\\Desktop\\Project Object Oriented and Functional Programming with Python\\Habit tracker\\tests\\test_habit_analytics.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{23F5BA42-57C7-4D29-BF3B-F92B5AFED82F}|Habit tracker.pyproj|solutionrelative:tests\\test_habit_analytics.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F5BA42-57C7-4D29-BF3B-F92B5AFED82F}|Habit tracker.pyproj|C:\\Users\\edita\\OneDrive\\Desktop\\Project Object Oriented and Functional Programming with Python\\Habit tracker\\tests\\test_habit_db.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{23F5BA42-57C7-4D29-BF3B-F92B5AFED82F}|Habit tracker.pyproj|solutionrelative:tests\\test_habit_db.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F5BA42-57C7-4D29-BF3B-F92B5AFED82F}|Habit tracker.pyproj|C:\\Users\\edita\\OneDrive\\Desktop\\Project Object Oriented and Functional Programming with Python\\Habit tracker\\tests\\test_user.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{23F5BA42-57C7-4D29-BF3B-F92B5AFED82F}|Habit tracker.pyproj|solutionrelative:tests\\test_user.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F5BA42-57C7-4D29-BF3B-F92B5AFED82F}|Habit tracker.pyproj|C:\\Users\\edita\\OneDrive\\Desktop\\Project Object Oriented and Functional Programming with Python\\Habit tracker\\enums.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{23F5BA42-57C7-4D29-BF3B-F92B5AFED82F}|Habit tracker.pyproj|solutionrelative:enums.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F5BA42-57C7-4D29-BF3B-F92B5AFED82F}|Habit tracker.pyproj|C:\\Users\\edita\\OneDrive\\Desktop\\Project Object Oriented and Functional Programming with Python\\Habit tracker\\analytics\\habit_analytics.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{23F5BA42-57C7-4D29-BF3B-F92B5AFED82F}|Habit tracker.pyproj|solutionrelative:analytics\\habit_analytics.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test_habit_db.py",
+              "DocumentMoniker": "C:\\Users\\edita\\OneDrive\\Desktop\\Project Object Oriented and Functional Programming with Python\\Habit tracker\\Tests\\test_habit_db.py",
+              "RelativeDocumentMoniker": "Tests\\test_habit_db.py",
+              "ToolTip": "C:\\Users\\edita\\OneDrive\\Desktop\\Project Object Oriented and Functional Programming with Python\\Habit tracker\\Tests\\test_habit_db.py",
+              "RelativeToolTip": "Tests\\test_habit_db.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-16T11:43:59.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test_user.py",
+              "DocumentMoniker": "C:\\Users\\edita\\OneDrive\\Desktop\\Project Object Oriented and Functional Programming with Python\\Habit tracker\\Tests\\test_user.py",
+              "RelativeDocumentMoniker": "Tests\\test_user.py",
+              "ToolTip": "C:\\Users\\edita\\OneDrive\\Desktop\\Project Object Oriented and Functional Programming with Python\\Habit tracker\\Tests\\test_user.py",
+              "RelativeToolTip": "Tests\\test_user.py",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-16T11:43:37.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test_habit_analytics.py",
+              "DocumentMoniker": "C:\\Users\\edita\\OneDrive\\Desktop\\Project Object Oriented and Functional Programming with Python\\Habit tracker\\Tests\\test_habit_analytics.py",
+              "RelativeDocumentMoniker": "Tests\\test_habit_analytics.py",
+              "ToolTip": "C:\\Users\\edita\\OneDrive\\Desktop\\Project Object Oriented and Functional Programming with Python\\Habit tracker\\Tests\\test_habit_analytics.py",
+              "RelativeToolTip": "Tests\\test_habit_analytics.py",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAAUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-16T11:33:16.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\edita\\OneDrive\\Desktop\\Project Object Oriented and Functional Programming with Python\\Habit tracker\\main.py",
+              "RelativeDocumentMoniker": "main.py",
+              "ToolTip": "C:\\Users\\edita\\OneDrive\\Desktop\\Project Object Oriented and Functional Programming with Python\\Habit tracker\\main.py",
+              "RelativeToolTip": "main.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-16T11:32:47.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "enums.py",
+              "DocumentMoniker": "C:\\Users\\edita\\OneDrive\\Desktop\\Project Object Oriented and Functional Programming with Python\\Habit tracker\\enums.py",
+              "RelativeDocumentMoniker": "enums.py",
+              "ToolTip": "C:\\Users\\edita\\OneDrive\\Desktop\\Project Object Oriented and Functional Programming with Python\\Habit tracker\\enums.py",
+              "RelativeToolTip": "enums.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-16T11:32:20.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "habit_analytics.py",
+              "DocumentMoniker": "C:\\Users\\edita\\OneDrive\\Desktop\\Project Object Oriented and Functional Programming with Python\\Habit tracker\\analytics\\habit_analytics.py",
+              "RelativeDocumentMoniker": "analytics\\habit_analytics.py",
+              "ToolTip": "C:\\Users\\edita\\OneDrive\\Desktop\\Project Object Oriented and Functional Programming with Python\\Habit tracker\\analytics\\habit_analytics.py",
+              "RelativeToolTip": "analytics\\habit_analytics.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-16T11:14:55.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
