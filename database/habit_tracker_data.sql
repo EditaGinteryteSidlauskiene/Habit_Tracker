@@ -98,7 +98,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES ('3bbe0fe5-5964-4c0f-aee3-fe85057c9877','William','william@gmail.com','william'),('3f55da35-fe6e-4fee-a7ed-20601f764ad5','Oliver','oliver@gmail.com','oliver'),('9b5d301d-ec61-402e-9543-d68f86b9c41d','Martha','martha@gmail.com','martha'),('b6b47614-afcb-454e-9a3a-a9f815e91568','Joana','joana@gmail.com','joana'),('d0697617-54c3-4237-9ad2-ddc93ef02079','Mark','mark@gmail.com','mark');
+INSERT INTO `users` VALUES ('3bbe0fe5-5964-4c0f-aee3-fe85057c9877','William','william@example.com','william'),('3f55da35-fe6e-4fee-a7ed-20601f764ad5','Oliver','oliver@example.com','oliver'),('9b5d301d-ec61-402e-9543-d68f86b9c41d','Martha','martha@example.com','martha'),('b6b47614-afcb-454e-9a3a-a9f815e91568','Joana','joana@example.com','joana'),('d0697617-54c3-4237-9ad2-ddc93ef02079','Mark','mark@example.com','mark');
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
